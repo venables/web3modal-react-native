@@ -1,6 +1,6 @@
 {
-  "name": "@web3modal/react-native",
-  "version": "1.0.0-alpha.1",
+  "name": "@venables/web3modal-react-native",
+  "version": "1.0.0-alpha.2",
   "description": "test",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
